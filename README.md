@@ -8,4 +8,5 @@
 Note: 
  - Make sure Jail broken iphone is connected via USB
  - Make sure Frida is installed in phone and your system
+ - Make sure SSH is running on the phone with Default username root and password alpine
  - Make sure you have this Git already cloned for dump.py "https://github.com/AloneMonkey/frida-ios-dump.git"
